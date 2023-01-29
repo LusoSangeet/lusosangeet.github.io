@@ -11,7 +11,10 @@
   <link rel="icon" href="images/ls_icon.png" />
   <script>
     function decode(s){
-      return s.replace(/_/,'@').replace(/\+/,'.') + "?subject=Luso Sangeet"
+      return s.replace(/_/,'@')
+              .replace(/\+/,'.') 
+              .replace(/x/g,'') 
+              + "?subject=Luso Sangeet"
     }
   </script>
 </head>
@@ -42,7 +45,7 @@
 
   <br />
   <div class="main-text">
-    Clique  <a href="mailto:lusosangeet_icloud+com" 
+    Clique  <a href="mailto:lxusosxxangexxet_icxxloxud+cxoxm" 
     onclick="this.href=decode(this.href)">aqui</a> para nos enviar um e-mail
   </div>
   <hr />
