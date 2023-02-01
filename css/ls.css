@@ -38,3 +38,7 @@
   .country-flag {
     font-size: 3vw;
   }
+
+  .flex-container {
+    display: flex;
+  }
