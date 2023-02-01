@@ -67,4 +67,8 @@ img.logo {
     align-content: center;
     font-size: 3.0vw;
   }
+
+  .navbar-custom {
+    font-size: 2.5vw;
+  }
 }
