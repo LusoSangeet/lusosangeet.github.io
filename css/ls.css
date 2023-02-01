@@ -1,50 +1,55 @@
 .navbar-custom {
-    background-color: goldenrod;
-    border: 1px solid black;
-    font-size: 1.3vw;
-    font-family: Arial, Verdana, Geneva, Tahoma, sans-serif;
-  }
+  background-color: goldenrod;
+  border: 1px solid black;
+  font-size: 1.3vw;
+  font-family: Arial, Verdana, Geneva, Tahoma, sans-serif;
+}
 
-  body {
-    background-color: #fcc200;
-    color: black;
-    font-family: Calibri, Arial, Verdana, Geneva, Tahoma, sans-serif;
-  }
+body {
+  background-color: #fcc200;
+  color: black;
+  font-family: Calibri, Arial, Verdana, Geneva, Tahoma, sans-serif;
+}
 
-  .main-text {
-    padding: 5px;
-    align-content: center;
-    font-size: 1.8vw;
-  }
-  
-  .footer {
-    display: flex;
-    justify-content: center; 
-    font-size: 0.9vw;
-  }
+.main-text {
+  padding: 5px;
+  align-content: center;
+  font-size: 1.8vw;
+}
 
-  .logo-container {
-    vertical-align: center;
-    text-align: center;
-  }
+.footer {
+  display: flex;
+  justify-content: center;
+  font-size: 1.0vw;
+}
 
-  img.logo {
-    width: 45vw;
-    height: auto;
-    max-width: 100%;
-    max-height: 90vh;
-  }
+.logo-container {
+  vertical-align: center;
+  text-align: center;
+}
 
-  .country-flag {
-    font-size: 3vw;
-  }
+img.logo {
+  width: 45vw;
+  height: auto;
+  max-width: 100%;
+  max-height: 90vh;
+}
 
-  .flex-container {
-    display: flex;
-  }
+.country-flag-container {
+  text-align: center;
+}
 
-  .outline {
-    border: black 0.1vw solid;
-    padding: 0.5vw;
-    max-width: 33%;
-  }
+.country-flag {
+  font-size: 4vw;
+
+}
+
+.flex-container {
+  display: flex;
+}
+
+.outline {
+  border: black 0.1vw solid;
+  padding: 0.5vw;
+  max-width: 33%;
+}
