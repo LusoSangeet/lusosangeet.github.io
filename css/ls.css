@@ -62,4 +62,9 @@ img.logo {
   .outline {
     min-width: 100%;
   }
+
+  .main-text {
+    align-content: center;
+    font-size: 3.0vw;
+  }
 }
