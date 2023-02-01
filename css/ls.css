@@ -53,3 +53,13 @@ img.logo {
   padding: 0.5vw;
   max-width: 33%;
 }
+
+@media screen and (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+
+  .outline {
+    min-width: 100%;
+  }
+}
