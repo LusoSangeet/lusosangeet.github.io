@@ -47,6 +47,11 @@ img.logo {
   display: flex;
 }
 
+.flex-container-plugins {
+  flex-direction: column;
+  display: flex;
+}
+
 .outline {
   border: black 0.1vw solid;
   padding: 0.5vw;
