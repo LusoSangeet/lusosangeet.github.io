@@ -42,3 +42,9 @@
   .flex-container {
     display: flex;
   }
+
+  .outline {
+    border: black 0.1vw solid;
+    padding: 0.5vw;
+    max-width: 33%;
+  }
