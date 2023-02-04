@@ -8,6 +8,8 @@
 .nav-link {
   border: 1px solid black;
   padding: 5px;
+  min-width: 7vw;
+  text-align: center;
 }
 
 
