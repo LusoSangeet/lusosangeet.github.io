@@ -5,6 +5,12 @@
   font-family: Arial, Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.nav-link {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+
 body {
   background-color: #fcc200;
   color: black;
