@@ -8,7 +8,7 @@
 body {
   background-color: #fcc200;
   color: black;
-  font-family: Calibri, Arial, Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Cambria, Calibri, Arial, Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .main-text {
@@ -89,5 +89,15 @@ img.logo {
 
   .footer {
     font-size: 2.0vw;
+  }
+
+  .flex-row {
+    display: flex;
+  }
+
+  .flex-column {
+    background-color: green;
+    color: chocolate;
+
   }
 }
