@@ -12,6 +12,13 @@
   text-align: center;
 }
 
+.img-wrap {
+  float: left;
+  /*margin: 30px 12px 3px 4px;*/
+  /*border: 2px solid blue;*/
+  padding-right: 1.3vw;
+}
+
 
 body {
   background-color: #fcc200;
