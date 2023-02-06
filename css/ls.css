@@ -79,6 +79,10 @@ img.logo {
   max-width: 33%;
 }
 
+.bio-guest {
+  text-align: right;
+}
+
 .flex-row {
   display: flex;
 }
