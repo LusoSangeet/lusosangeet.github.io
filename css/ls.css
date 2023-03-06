@@ -91,6 +91,11 @@ img.logo {
   flex-direction: column;
 }
 
+.youtube {
+  width: 50%;
+  height: 350vh;
+}
+
 /* Mobile */
 @media screen and (max-width: 1080px) {
   .flex-container {
@@ -119,6 +124,10 @@ img.logo {
 
   .country-flag {
     font-size: 6vw;
+  }
+
+  .youtube {
+    width: 90%;
   }
 
   .footer {
