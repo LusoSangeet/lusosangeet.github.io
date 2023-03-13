@@ -67,6 +67,7 @@ img.logo {
 .flex-container {
   display: flex;
   flex-wrap: wrap;
+  row-gap: 5vh;
 }
 
 .flex-column-nos {
