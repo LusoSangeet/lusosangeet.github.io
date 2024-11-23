@@ -1,0 +1,17 @@
+.homebody {
+    background-image: url("../images/stephen_tarun_goa.png");
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+    background-repeat: no-repeat;
+    color: rgb(246, 216, 141);
+    font-weight: bold;
+    text-align: left;
+    font-size: 2.3vw;
+    text-shadow:
+    3px 3px 0 #000,
+     -3px 3px 0 #000,
+    -3px -3px 0 #000, 
+    ;
+    -webkit-text-stroke: 0.75px black;
+  }
