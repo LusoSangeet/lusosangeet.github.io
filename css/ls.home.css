@@ -17,5 +17,9 @@
   }
 
   .textonimage{
-    opacity: 0.7; background-color: goldenrod; padding: 2px;
+    opacity: 0.7; background-color: goldenrod; 
+    padding: 0.6vw;
+    overflow: hidden;
+    border: 0.2vw solid black;
+    border-radius: 25px;
   }
